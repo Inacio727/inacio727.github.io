@@ -1,0 +1,29 @@
+body {
+  background-color: #333;
+}
+
+.container {
+  border: 2px solid whitesmoke;
+  color: whitesmoke;
+}
+
+.title {
+  text-align: center;
+}
+.title h1 {
+  margin-bottom: 0;
+}
+.title h3 {
+  padding: 0;
+  margin: 0;
+}
+
+.trabalhos {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.fausto, .gabriel, .claudia {
+  text-align: center;
+  border: 1px solid white;
+}/*# sourceMappingURL=style.css.map */
